@@ -23,7 +23,7 @@ A full-stack real-time chat application built with Node.js, Express, MongoDB, So
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/THARUN6367/chatroom.git>
 cd chat-app
 ```
 
